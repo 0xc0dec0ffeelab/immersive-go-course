@@ -4,12 +4,6 @@ title="Projects"
 +++
 forhugo-->
 
-## Requirements
-
-Before you start this course, make sure you've read and followed all of the instructions in the [prep](../prep/README.md) document. This will get you set up and explain how to work through the projects.
-
-Remember: you can _always_ Google or ask for help if you get stuck.
-
 ## Projects
 
 This course is structured into self-contained projects that you can work through at your own pace.
@@ -48,3 +42,5 @@ Most exercises finish with a list of optional extension tasks. It's highly recom
    <br>Build a distributed multi-server application handling variable load, with Kafka as a task queue
 1. [RAFT and OTel](./raft-otel)
    <br>Build a complex distributed system for with strong consistency, and instrument it with tracing
+1. [Infra](./infra)
+   <br>Infra ideas
